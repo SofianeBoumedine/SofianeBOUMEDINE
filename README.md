@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**SofianeBoumedine/SofianeBOUMEDINE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
 <img width="100%" height = "300px" src="https://cdn.hipwallpaper.com/i/84/89/NF7ROI.jpg" alt="cover" />
 </div>
