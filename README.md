@@ -45,6 +45,7 @@
 <br>
 </p>
 <div align='center'>
+  <a href="https://app.daily.dev/SofianeBM"><img src="https://api.daily.dev/devcards/e3f5cb2405154a2c89834e0771ea4498.png?r=kwh" width="400" alt="Sofiane BOUMEDINE's Dev Card"/></a>
 <img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
 </div>
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
