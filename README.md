@@ -1,87 +1,115 @@
 <div align="center">
-<img width="100%" height = "300px" src="https://cdn.hipwallpaper.com/i/84/89/NF7ROI.jpg" alt="cover" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Sofiane+%F0%9F%91%8B;Senior+Software+Engineer;Founder+of+LemmiLink;SEO+%26+Netlinking+Expert" alt="Typing SVG" />
+
+**Full Stack Developer | 10+ years of experience | Paris, France**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofiane-boumedine)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://sofiane-boumedine.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.sofiane-boumedine.com/)
+[![LemmiLink](https://img.shields.io/badge/LemmiLink-6C63FF?style=for-the-badge&logo=linkfire&logoColor=white)](https://lemmilink.fr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@sofiane-boumedine.com)
+
 </div>
 
-<h1 align='center'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+---
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SofianeBoumedine.SofianeBoumedine)
+### About
 
-</p>
-<div size='20px'> Hi! My name is SofianeBOUMEDINE. Thank You for taking the time to view my GitHub Profile :smile: 
-<h2 align='center'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<p align = 'center'>
-<a href = 'https://www.linkedin.com/in/sofiane-boumedine'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://sofiane-boumedine.com'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/SofianeBoumedine'> <img width = '44px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+Full Stack Developer with **10+ years of experience**, based in **Paris**. SUPINFO alumni, then 5+ years in consulting firms (**Keley**, **Apside**) on major accounts: **Renault, Dacia, STIME/Intermarche, Orange Events, INA, Maison & Objet, MNT**. Former **W3C Payments Working Group** member.
 
-</p>
+Currently **Senior Software Engineer (freelance) at Emeria Technologies** and founder of **[LemmiLink](https://lemmilink.fr)**.
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000?style=flat-square&logo=symfony&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Data & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**CMS & SEO**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=drupal&logoColor=white)
+
+---
+
+### Flagship Project — LemmiLink
+
+[![LemmiLink](https://img.shields.io/badge/LemmiLink.fr-Visit-6C63FF?style=for-the-badge)](https://lemmilink.fr) [![App](https://img.shields.io/badge/App-Platform-000?style=for-the-badge)](https://app.lemmilink.fr)
+
+Netlinking marketplace to buy and sell backlinks. **2,000+ users**, **140,000+ sites** in the catalog, ~15 SEO agency clients, and a dedicated linking team.
+
+**Stack**: React, NestJS, PostgreSQL
+
+---
+
+### Notable Clients
+
+| Client | Role | Stack |
+|--------|------|-------|
+| **Emeria Technologies** | Senior Software Engineer (Freelance) | Current |
+| **INA** (via Apside) | Symfony Developer | Symfony |
+| **Auto-Distribution AD** | Full Stack Developer | React, Tailwind, NestJS, RxDB |
+| **STIME / Intermarche** | Full Stack Developer | React, C#, Blazor, Node.js |
+| **Buy.Dacia / Buy.Renault** | Full Stack Developer | Symfony, Angular 9, CI/CD |
+| **Orange Events** | Full Stack Developer | Oro Commerce, Webpack |
+| **MNT** | Frontend Developer | React, Next.js, Prismic, SSR |
+| **Maison & Objet** | Full Stack Developer | Drupal, AWS Lambda |
+| **W3C** | Payments Working Group Member | Payment Request API |
+| **Canton Consulting** | IT Consultant | PostgreSQL, GitLab, ISO 27001 |
+
+---
+
+### Services
+
+- **Web Development** — Custom applications with React, NestJS, Symfony, WordPress
+- **SEO & Netlinking** — Audits, ranking strategies, backlink campaigns via LemmiLink
+- **Consulting** — Technical audits, action plans, digital strategy
+- **Content Creation** — Branding, app mockups, editorial content
+
+---
+
+### They Trusted Me
+
+<div align="center">
+
+**Renault** · **Dacia** · **Intermarche (STIME)** · **Orange Events** · **INA** · **Maison & Objet** · **MNT** · **Apside** · **Keley Consulting** · **Canton Consulting** · **SUPINFO** · **W3C**
+
 </div>
 
-<h2 align='center'> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 50px> </h2>
-<p align = 'center'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/meteor.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sketch.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>
-<br>
-</p>
-<div align='center'>
-  <a href="https://app.daily.dev/SofianeBM"><img src="https://api.daily.dev/devcards/e3f5cb2405154a2c89834e0771ea4498.png?r=kwh" width="400" alt="Sofiane BOUMEDINE's Dev Card"/></a>
-<img width ='30%' height = '30%'  src='https://cdn.pixabay.com/photo/2018/09/24/08/31/pixel-cells-3699334_1280.png'/>
+---
+
+<div align="center">
+
+**Available for freelance missions** :fr:
+
+Paris, France | [contact@sofiane-boumedine.com](mailto:contact@sofiane-boumedine.com) | [sofiane-boumedine.com](https://sofiane-boumedine.com)
+
 </div>
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-- 🔭 I’m currently working on PHP : Symfony 4,
-OroCommerce,
-Angular
-
-- 🌱 I’m currently learning PHP : Symfony 4,
-OroCommerce,
-Angular 
-
-- 👯 I’m looking to collaborate on Payment Request,
-Web3,
-SEO Automation,
-Technical Blog Post 
-
-- 💬 Talk to me about SEO,
-Web security,
-Web Scraping,
-Javascript 
-
-
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='75px'> </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SofianeBoumedine&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofianeBoumedine&theme=default" />
-</a>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<footer align='center'></footer>
